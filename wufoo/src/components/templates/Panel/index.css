@@ -1,0 +1,42 @@
+.panel {
+  font-size: 14px;
+  width: 30%;
+  padding: 40px 15px 15px;
+  background-color: #fbfde9;
+  margin: 0 auto;
+}
+
+.chipGroupPanel {
+  margin: 20px auto 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.textAreaForm {
+  width: 100%;
+}
+
+.fieldElementPadding {
+  padding: 12px 0;
+}
+
+.maxWidth_80 {
+  max-width: 80px;
+}
+
+.marginRange {
+  margin: 0 15px 0 10px;
+}
+
+.inputClass {
+  padding: 4px;
+  margin-top: 4px;
+  border-top: 1px solid #7c7c7c;
+  border-left: 1px solid #c3c3c3;
+  border-right: 1px solid #c3c3c3;
+  border-bottom: 1px solid #ddd;
+  background: #fff;
+  cursor: pointer;
+}

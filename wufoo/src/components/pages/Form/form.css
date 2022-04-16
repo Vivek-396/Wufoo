@@ -1,0 +1,35 @@
+.formContainer {
+  width: 1000px;
+  margin: 40px auto;
+  box-shadow: rgb(0 0 0 / 20%) 0px 0px 5px;
+  border-radius: 5px;
+}
+
+.inputDiv {
+  padding: 8px;
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+}
+
+.inputDiv:hover {
+  border: 1px dotted black;
+  cursor: pointer;
+}
+
+.inputLabel {
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.inputClass {
+  padding: 4px;
+  margin-top: 4px;
+  border-top: 1px solid #7c7c7c;
+  border-left: 1px solid #c3c3c3;
+  border-right: 1px solid #c3c3c3;
+  border-bottom: 1px solid #ddd;
+  background: #fff;
+  cursor: pointer;
+}

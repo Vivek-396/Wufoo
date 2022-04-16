@@ -1,0 +1,10 @@
+.formDisplay {
+  min-height: 560px;
+}
+
+.formDisplayInfo {
+  padding-top: 10px;
+  border: 1px solid #fff;
+  border-bottom: 1px dotted #ccc;
+  padding: 1% 1% 1.1em 1%;
+}
